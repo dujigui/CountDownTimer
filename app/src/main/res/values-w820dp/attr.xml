@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CountDownView">
+        <attr name="shortMarkLength" format="dimension"/>
+        <attr name="longMarkLength" format="dimension"/>
+        <attr name="shortMarkStrokeWidth" format="dimension"/>
+        <attr name="longMarkStrokeWidth" format="dimension"/>
+        <attr name="markGap" format="dimension"/>
+        <attr name="selectedMarkColor" format="color"/>
+        <attr name="unselectedMarkColor" format="color"/>
+        <attr name="selection" format="float"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="gapAbove" format="dimension"/>
+        <attr name="gapBelow" format="dimension"/>
+        <attr name="indicatorSize" format="dimension"/>
+        <attr name="minSelection" format="float"/>
+        <attr name="maxSelection" format="float"/>
+    </declare-styleable>
+</resources>
